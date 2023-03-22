@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zeynep Kübra BATMAZ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Zeynep Kübra BATMAZ](https://www.linkedin.com/in/zeynep-k%C3%BCbra-batmaz-5540bb247/)) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Lizstomania) 
 
 # 💻 Tech Stack:
