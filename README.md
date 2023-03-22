@@ -1,4 +1,6 @@
-###🌱 I’m currently learning
+🌱 I’m learning android software development and web development.
+👩‍🎓 I'm currently a computer engineering student at Gazi University.
+🔗 My linkedin account [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-k%C3%BCbra-batmaz-5540bb247/)
 
 <!--
 **zk-batmaz/zk-batmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
